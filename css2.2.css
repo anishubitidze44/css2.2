@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#imgone {
+    display: inline-block;
+    vertical-align: middle;
+    
+
+}
+#navigation {
+    padding: 12px 80px;
+    align-items: center;
+    vertical-align: middle;
+    width: 1140px;
+    margin: auto;
+}
+#navbar {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+#first {
+    text-decoration: none;
+    color: #FF5DA3;
+    font-size: 18px;
+    
+}
+#second {
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 20px;
+
+}
+#contact {
+    text-decoration: none;
+    color: #323232;
+    font-size: 18px;
+    margin-left: 20px;
+}
+#help {
+    text-decoration: none;
+    color: #323232;
+    font-size: 18px;
+    margin-left: 20px;
+}
+#contactus {
+    text-decoration: none;
+   
+    color: #FFFFFF;
+}
+#button {
+    margin-left: 100px;
+    background-color: #00AC25;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: none;
+}
+#divfirst {
+    max-width: 1920px;
+    margin: 150px 302px;
+}
+#title {
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+    max-width: 1316px ;
+}
+#pink {
+    color: #FF5DA3;
+    font-size: 72px;
+}
+#paragraphFirst {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    max-width: 1316px;
+}
+#littletitle {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+#paragraphSecond {
+    max-width: 716px;
+    color: #6941C6;
+    text-align: center;
+    font-size: 24px;
+    margin-left: 100px;
+}
+#buttonSecond {
+    padding: 16px 24px;
+    align-items: center;
+    border-radius: 8px;
+    background: #00AC25;
+    margin-top: 24px;
+    border: none;
+   
+   
+}
+#instructor {
+    color: #FFF;
+    font-size: 18px;
+    text-decoration: none;
+    margin-top: 40px;
+}
+#button-Wrapper { 
+    text-align: center;
+}
+#footer {
+    width: 1920px;
+    height: 128px;
+    background-color: #53389E;
+    
+}
+#divSecond {
+    width: 1000px;
+    margin: 0 auto;
+  
+}
+#list {
+    display: inline-block;
+    color: #E9D7FE;
+    margin-top: 50px;
+   
+}
+#overview {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 12px;
+}
+#features {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 12px;
+}
+#pricing {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 12px;
+}
+#careers {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 12px;
+}
+#helpSecond {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 12px;
+}
+#privacy {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 12px;
+}
+#imgsecond {
+        vertical-align: middle;
+       margin-right: 24px;
+}
+#copy {
+    display: inline-block;
+    color: #D6BBFB;
+    margin-left: 80px;
+}
